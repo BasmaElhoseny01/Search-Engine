@@ -4,6 +4,7 @@ Google-like simple search engine, supporting phrase search.
 The main file to run is \src\main\java\com\example\demo\homeController.java
 
 Note: The required Jars are attached in file Jars just add them to your project
+Note: use Mongodb compass
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Crawler:
